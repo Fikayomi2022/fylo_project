@@ -210,7 +210,10 @@ div.signup{
     position: relative;
     top: 100px;
     left: 250px;
+    padding: 10px;
+    border-radius: 20px;
 }
+
 #footer{
     padding: 150px;
     background-color: var(--primary3);
